@@ -1,0 +1,15 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "This the anagram app to check if a word is the anagram of another",
+  "license": "ISC",
+  "author": "Abdoul Malick Lawal Web App Exam 300l 2nd semes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
+}
